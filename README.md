@@ -4,13 +4,14 @@ TwiSent is a sentiment analysis tool which returns the polarity and the subjecti
 Requirements:
 
 pip install -U textblob
+
 python -m textblob.download_corpora
 
 --------------------------------------------------------------------------------------
 
 How it works?
 
-java -jar TwiSent <inputFile> <separatorInputFile> <tweetsCol> <outputFile>
+java -jar TwiSent [inputFile] [separatorInputFile] [tweetsCol] [outputFile]
 
 --------------------------------------------------------------------------------------
 
