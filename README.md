@@ -15,4 +15,4 @@ java -jar TwiSent [inputFile] [separatorInputFile] [tweetsCol] [outputFile]
 
 --------------------------------------------------------------------------------------
 
-Developped by Didier Henry PhD student at the University of French West Indies
+Developped by Didier Henry PhD student at the University of French West Indies (Guadeloupe)
